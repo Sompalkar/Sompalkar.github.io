@@ -1,5 +1,5 @@
 # Sompalkar.github.io
-you can check Live deployment of Portfolio Website.
+you can check Live deployment of Portfolio Website .
  
 
 ## Resume Starter Pack Description
